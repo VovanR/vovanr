@@ -3,6 +3,8 @@
 Use my helpful [Services](https://vovanr.com/services/).  
 Read my mega [Notes](https://vovanr.com/notes/).
 
+[Curriculum Vitae](https://vovanr.com/cv/).
+
 <!--
 **VovanR/vovanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
