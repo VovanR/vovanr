@@ -1,11 +1,13 @@
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=vovanr&show_icons=true&hide_title=true&disable_animations=true" alt="" height="140" align="right" style="margin: 5px; margin-bottom: 20px;"/>
+-->
 
 ### Hi there 👋
 
-Use my helpful [Services](https://vovanr.com/services/).  
-Read my mega [Notes](https://vovanr.com/notes/).
+Use my helpful [⚙ Services](https://vovanr.com/services/)  
+Read my mega [📓 Notes](https://vovanr.com/notes/)
 
-[Curriculum Vitae](https://vovanr.com/cv/).
+[Curriculum Vitae](https://vovanr.com/cv/)
 
 <!--
 **VovanR/vovanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
